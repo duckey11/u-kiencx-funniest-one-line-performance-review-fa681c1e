@@ -11,7 +11,7 @@ import os
 
 ENTRY = (
     "Exceeds expectations: assigns urgent work at 4:59 PM, vanishes, "
-    "returns for the applause; promoted to VP of Disappearing."
+    "reappears for the applause; promoted to VP of Disappearing."
 )
 
 
